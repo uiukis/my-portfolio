@@ -11,4 +11,4 @@ The portfolio was made in React. Take a look at other [projects](https://github.
 #### Uiukis-what?
 *Uiukis* is a nickname given by friends. It's not very original, but it kind of worked.  `¯\_(ツ)_/¯`
 
-#####Thanks for visiting! (づ￣ ³￣)づ
+##### Thanks for visiting! (づ￣ ³￣)づ
