@@ -26,9 +26,6 @@ export default function Contact() {
 
     return (
         <section id="contact" className="relative">
-            <div id='stars'></div>
-            <div id='stars2'></div>
-            <div id='stars3'></div>
             <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
                 <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
                     <iframe
@@ -75,7 +72,7 @@ export default function Contact() {
                         Hire Me
                     </h2>
                     <p className="leading-relaxed mb-5">
-                        Fique a vontade para me mandar uma mensagem sobre trabalhos ou projetos, ou até mesmo um oi&nbsp;
+                        Feel free to send me a message about work or projects, or even a hello&nbsp;
                         <span class="emoji-bye" aria-label="bye" role="img">👋</span>
                         !
                     </p>
